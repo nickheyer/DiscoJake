@@ -36,9 +36,9 @@ async def on_message(message):
       if int(x) == quote_num:
         jake_quote = jake_quotes_read[x].strip()
     if image_num == 1:
-          embed.set_image(url="https://www.pngitem.com/pimgs/b/531-5319089_finn-and-jake-png.png")
+          embed.set_image(url="https://i.imgur.com/BkTYpZi.gif")
     elif image_num == 2:
-          embed.set_image(url="https://www.pngitem.com/pimgs/b/417-4173839_jake-the-dog-png.png")
+          embed.set_image(url="https://i.imgur.com/nWEFAga.gif")
     elif image_num == 3:
           embed.set_image(url="https://i.imgur.com/uhyP2rH.gif")
     elif image_num == 4:
