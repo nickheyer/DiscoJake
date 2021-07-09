@@ -1,5 +1,6 @@
 # DiscoJake
-A Discord bot that brightens any server with quotes from Jake the Dog. 
+A Discord bot that brightens any server with quotes from Jake the Dog.
+This was the idea of Sirius_Stark#9455 - I just wrote the code. 
 
 Include the word "jake" in any message on your server, and DiscoJake will send a wonderful jake quote and an accompanying image. 
 
